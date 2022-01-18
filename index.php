@@ -26,12 +26,12 @@
 </style>
 
 <div class="centered">
-<h1>My Simple Project Management</h1>
+<h1>Aplicación de Gestión de Proyectos</h1>
 
 <a href="manager/clients.php" target="_new">Login as manager</a> | <a href="employee/tasks.php" target="_new">Login as employee</a>
 </div>
 
-<div class="footer"><strong>Build-From-Scratch Series</strong> | phpGrid &copy; <?php echo date('Y'); ?>.</div>
+<div class="footer"><strong>Ángela Serantes</strong> | Formaweb IV &copy; <?php echo date('Y'); ?>.</div>
 
 </body>
 </html>
