@@ -23,6 +23,6 @@ referencia: https://www.freecodecamp.org/news/build-a-simple-project-management-
    1. tasks.php
 9. Por último se le da formato a la aplicación con el archivo style.css
 10. El resultado es el siguiente:
-    1.  ![Pantalla inicial](https://i.ibb.co/G9DTkHS/Fire-Shot-Capture-006-My-Simple-Project-Management-php-Grid-project-manager-test.png)
+    1.  ![Pantalla inicial](https://i.ibb.co/wNVpkyn/Fire-Shot-Capture-007-My-Simple-Project-Management-php-Grid-project-manager-test.png)
     2.  ![Clients](https://i.ibb.co/k0PCH2Y/Fire-Shot-Capture-003-My-Custom-Project-Management-Application-project-manager-test.png)
     3.  ![Task](https://i.ibb.co/WsW9Bdr/Fire-Shot-Capture-004-My-Custom-Project-Management-Application-project-manager-test.png)
