@@ -10,7 +10,7 @@ include_once('../inc/head.php');
 include_once('../inc/menu.php');
 ?>
 
-<h3>Section Title</h3>
+<h3>Section Title</h2>
 <?php
 // ..phpGrid code goes here
 ?>
