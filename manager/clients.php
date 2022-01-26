@@ -11,7 +11,7 @@ include_once('../inc/head.php');
 $_GET['currentPage'] = 'clients';
 include_once('../inc/menu.php');
 ?>
-
+<br><a href="/login/logout.php">Salir</a>
 <h3>Clients</h3>
 
 <?php

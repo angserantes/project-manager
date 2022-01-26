@@ -17,7 +17,7 @@ include_once('../inc/head.php');
 <div style="color:red">
 Hello, employee! 
 </div>
-
+<br><a href="/login/logout.php">Salir</a>
 <h3>My Active Tasks</h3>
 
 <?php
